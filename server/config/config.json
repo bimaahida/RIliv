@@ -1,11 +1,12 @@
 {
   "development": {
-    "username": "admin",
-    "password": "admin",
-    "database": "riviTestMasuk",
-    "host": "127.0.0.1",
+    "username": "nhsmnlpgcafbmf",
+    "password": "dd3939da3393e28fbe37c8d27381251564c52619afb04e6409ac87f7ae3bd921",
+    "database": "d2at0gnn8m1pg7",
+    "host": "ec2-52-203-160-194.compute-1.amazonaws.com",
     "dialect": "postgres",
-    "operatorsAliases": false
+    "operatorsAliases": false,
+    "port": "5432"
   },
   "test": {
     "username": "root",
@@ -16,11 +17,12 @@
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "nhsmnlpgcafbmf",
+    "password": "dd3939da3393e28fbe37c8d27381251564c52619afb04e6409ac87f7ae3bd921",
+    "database": "d2at0gnn8m1pg7",
+    "host": "ec2-52-203-160-194.compute-1.amazonaws.com",
     "dialect": "postgres",
-    "operatorsAliases": false
+    "operatorsAliases": false,
+    "port": "5432"
   }
 }
